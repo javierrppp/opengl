@@ -1,0 +1,25 @@
+﻿  光照.cpp
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(188): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(189): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(190): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(267): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(270): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(271): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ray\source\repos\shader类\shader类\光照.cpp(278): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  shader类.vcxproj -> C:\Users\RAY\source\repos\shader类\Debug\shader类.exe
